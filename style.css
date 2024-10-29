@@ -1,0 +1,22 @@
+.calendar{
+border:10px solid blue;
+background-color:#fff;
+  }
+h1{
+  width:55px;
+padding:8px;
+color:blue;
+margin-bottom:-3px;
+margin-left:150px;
+margin-top:10px
+}
+p{
+text-align:center;
+margin-top:2px
+}
+h2{
+text-align:center;
+}
+body{
+background-color:#000
+}
